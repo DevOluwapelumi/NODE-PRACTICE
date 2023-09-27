@@ -20,3 +20,8 @@ Run the Node.js Script: Open your terminal or command prompt, navigate to your p
 node app.js
 If everything is set up correctly, you will see the output of your script in the terminal:
 Hello, Node.js!
+
+Congratulations! You have successfully started a Node.js script.
+
+Install and Use Dependencies (Optional): If your project requires external libraries or packages, you can use npm to install them. For example, if you want to use the popular lodash library, you can install it with:
+npm install lodash
