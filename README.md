@@ -25,3 +25,13 @@ Congratulations! You have successfully started a Node.js script.
 
 Install and Use Dependencies (Optional): If your project requires external libraries or packages, you can use npm to install them. For example, if you want to use the popular lodash library, you can install it with:
 npm install lodash
+
+Then, you can require and use it in your Node.js script:
+// app.js
+const _ = require("lodash");
+
+console.log(_.random(1, 10));
+
+Code and Develop: Now, you can start coding your Node.js application within your app.js file. You can build web servers, APIs, scripts, and much more using Node.js.
+
+That's the basic process of starting a Node.js script. You can continue developing your project, and as it becomes more complex, you may want to consider using a build tool like npm scripts or a framework like Express.js for web applications.
